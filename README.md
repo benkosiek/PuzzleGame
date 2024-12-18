@@ -8,7 +8,7 @@ Azure OpenAI and Azure DALL-E 3
 1. The game is starts when a player enters ./puzzle from the command-line
 2. The player is then prompted to input a description of a puzzle they want to solve
 3. The puzzle is then returned in scrambled order
-4. Using the keys "L", "R", and "F", as well as a mouse, the player is able to swap, roate left and right, and flip the puzzle in order to correclty assemble the puzzle
+4. Using the keys "L", "R", and "F", as well as a mouse, the player is able to swap, rotate left and right, and flip the puzzle in order to correclty assemble the puzzle
 5. Once the puzzle is assembled correctly, the game ends.
 
 ## **Features**
